@@ -49,6 +49,6 @@ Aprendiendo los conceptos clave del desarrollo web con Html y Css, es posible ag
 <details>
 <summary>Vistas previas.</summary>
   
-[Universo Animalia](images/previa.jpg).  
+![Universo Animalia](images/previa.jpg).  
 [Vista en navegador](https://universo-animalia.netlify.app/).
 </details>
